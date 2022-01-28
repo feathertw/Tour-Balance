@@ -1,5 +1,4 @@
-# Tour-Balance for Traveling with Friends
-**Tour-Balance** is a tool for traveling with friends. Most of traveling cases, when you guys need to pay something together(such as hostel fee, lunch...), it's very annoying to share money everytime. Even nowadays we have many electronic payment, it still exhausts people. **Tour-Balance** is based on Google service. Everyone keys in the items on website-browser and views the final result on Google-Sheet. It's easy for all. (If using a mobile app, it needs people to install the app. It's also tiring.)
+# Tour-Balance-Dev
 
 ## Build a Tour-Balance
 

@@ -1,1 +1,1 @@
-docs/manual-dev.md
+docs/manual-user.md
