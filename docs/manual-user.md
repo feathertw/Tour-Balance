@@ -5,6 +5,8 @@
 * Form: https://tinyurl.com/tour-balance-gform-demo
 * Final: https://tinyurl.com/tour-balance-gsheet-demo
 
+![](https://i.imgur.com/1eedX4h.png)
+
 ## Build a Tour-Balance
 
 1. Log in Google account
