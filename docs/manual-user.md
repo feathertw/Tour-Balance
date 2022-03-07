@@ -5,7 +5,7 @@
 * Form: https://tinyurl.com/tour-balance-gform-demo
 * Final: https://tinyurl.com/tour-balance-gsheet-demo
 
-![](https://i.imgur.com/1eedX4h.png)
+![](https://i.imgur.com/VE3eNb3.png)
 
 ## Build a Tour-Balance
 
@@ -22,3 +22,6 @@
 ## Run Tour-Balance
 * Share the form link with your friends, so eveyone can fill in on a web browser
 * In "Final" sheet-page, you will know how to balance the money
+
+## Appendix
+* [Practical Tips](/docs/practical-tips.md)
