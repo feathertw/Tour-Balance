@@ -17,7 +17,6 @@
     - Edit your friends' names into the 4th question "`Who needs to share`" list
 5. Open the copied Google-Sheet
     - Choose "Person" sheet-page and edit your friends' names
-    - Choose "Final" sheet-page and delete the null columns
 
 ## Run Tour-Balance
 * Share the form link with your friends, so eveyone can fill in on a web browser
